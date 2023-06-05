@@ -1,0 +1,15 @@
+.navbar-style{
+	background-color: #94B49F;
+}
+.navbar-font{
+	font-weight: bold;
+	font-size: 23px;
+	font-family: 'Oxygen', sans-serif;
+}
+.search-btn{
+	background-color: #B7E5DD;
+}
+.navbar-padding{
+    padding: 10px 35px 10px 35px !important;
+}
+

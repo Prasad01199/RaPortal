@@ -1,0 +1,49 @@
+.header-font{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	padding-top: 10px;
+    padding-bottom: 6px;
+    
+}
+.table-custom{
+    width: 100%;
+
+}
+.status-btn{
+	border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: #f0f046;
+    width: 115px;
+}
+ .action-btn{
+	border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: #E6BA95;
+    width: 115px;
+}
+.action-icon{
+	padding-right: 5px;
+}
+.table-font-custom{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 14px;
+}
+th, td{
+	text-align: center;
+}
+body{
+background-color: #FDFCE5;
+}

@@ -1,0 +1,83 @@
+body{
+	background-color: #DAE2B6;
+}
+
+
+.header-font{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	padding-top: 10px;
+    padding-bottom: 6px;
+}
+.accordian-header-font-1-3{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	color: #FF0000;
+	background-color: #F2F5C8;
+	padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.accordian-header-font-2{
+	font-size: 18px;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: bold;
+	color: #FF0000;
+	background-color: #FFFF;
+	padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.form-label-custom{
+	/*margin-left: 10px;
+    margin-right: 10px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.border-custom{
+	border-radius: 5px;
+	border: 2px solid;
+	border-color: #AEDBCE;
+	/*outline: none;*/
+	outline-color: #AEDBCE;
+	padding-left: 10px;
+}
+.border-custom:focus{
+	border-color: rgba(64, 187, 227);
+  	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(64, 187, 227);
+  	outline: 0 none;
+}
+.placeholder-font{
+	font-size: 14px;
+	font-family: 'Quicksand', sans-serif;
+}
+.input-move{
+	padding-left: 0px;
+}
+.save-btn{
+	margin-left: 1250px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.style{
+    display: inline;
+}
+.required-custom{
+	color: red;
+}
+.verification-btn{
+	margin-top: 20px;
+	margin-left: 20px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	background-color: #14C38E;
+	outline: 0 none;
+	border: 0px;
+}

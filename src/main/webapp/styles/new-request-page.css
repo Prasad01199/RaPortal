@@ -1,0 +1,138 @@
+body{
+background-color: #F5F0BB;
+}
+.item-custom{
+	background-color: #FFFFFF;
+}
+.accordion{
+	--bs-accordion-active-bg: #dcf5de;
+}
+.accordion-custom{
+	margin: 0px;
+}
+.accordion-header-custom{
+	font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.accordion-body-custom{
+	background-color: #fffdf5;
+}
+.bg-custom{
+	border: 0px;
+	padding: 0px !important;
+}
+.container-custom{
+	width: 100%;
+}
+.custom-btn{
+	padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+.form-label-custom{
+	/*margin-left: 10px;
+    margin-right: 10px;*/
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+.subscriber-label-custom{
+	margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-input-custom{
+	width: auto;
+}
+.fetch-clr{
+   /* background-color: #E59934;*/
+    border: 0px;
+}
+.border-custom{
+	border-radius: 5px;
+	border: 2px solid;
+	border-color: #AEDBCE;
+	/*outline: none;*/
+	outline-color: #AEDBCE;
+	padding-left: 10px;
+}
+.border-custom:focus{
+	border-color: rgba(64, 187, 227);
+  	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(64, 187, 227);
+  	outline: 0 none;
+}
+.placeholder-font{
+	font-size: 14px;
+	font-family: 'Quicksand', sans-serif;
+}
+.modal-header-clr{
+	background-color: #dcf5de;
+}
+.modal-body-clr{
+	background-color: #fffdf5;
+	font-weight: bold;
+	padding-bottom: 8px;
+}
+.modal-footer-clr{
+	background-color: #fffdf5;
+	padding-top: 6px;
+   padding-bottom: 15px;
+   border: 0px;
+}
+.label-space{
+	margin-left: 150px;
+}
+.btn-save-cancel{
+	margin-left: 10px;
+}
+.btn-save{
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.btn-cancel{
+	margin-left: 8px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+}
+.anchor-text-newsubs{
+	margin-left: 165px;
+}
+.input-fields-container{
+	/*margin-top: 7px;
+	margin-bottom: 7px;
+	margin-left: 8px;
+	margin-right: 8px*/;
+}
+.anchor-select-certificate{
+	margin-left: 20px;
+}
+.span-phno{
+	width: 50px;
+    height: 28px;
+    padding-right: 6px;
+    padding-left: 6px;
+    padding-top: 3px;
+}
+.style{
+    display: inline;
+}
+.radio-style{
+	padding-left:20px;
+}
+.required-custom{
+	color: red;
+}
+.new-req-sec{
+    padding-top:50px;
+}
+

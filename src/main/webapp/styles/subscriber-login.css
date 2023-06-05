@@ -1,0 +1,65 @@
+body{
+	background: #F5F0BB;
+	padding-top: 25vh;	
+}
+/* set form background colour*/
+.login-info{
+	background: #C4DFAA;
+}
+/* set padding and size of th form */
+.form-container{
+	border-radius: 10px;
+	padding: 20px;
+}
+.padding-custom{
+	padding: 10px;
+}
+.input-label-font{
+	font-family: 'Source Code Pro', monospace;
+}
+.form-heading{
+	font-family: 'Nunito Sans', sans-serif;
+}
+.bg-custom{
+	background: #C4DFAA;
+	border: 0px;
+	padding: 0px !important;
+}
+.submit-btn{
+	border: 0px;
+	color: #FFF;
+	background: #519259;
+}
+.submit-btn:hover{
+	background: #35613b;
+	color: #FFF;
+}
+----------
+.captcha_{
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    width: 60px;;
+    padding: 20px;
+    font-weight: 400;
+    padding-bottom: 0px;
+    height: 40px;
+    user-select: none;
+    text-decoration:line-through;
+    font-style: italic;
+    font-size: x-large;
+    border: red 2px solid;
+    margin-left: 10px;
+}
+
+.user-input{
+    box-shadow: 5px 5px 5px 5px gray;
+    width:auto;
+    margin-right: 10px;
+    padding: 10px;
+    padding-bottom: 0px;
+    height: 40px;
+    border: red 0px solid;
+}
+.inline{
+    display:inline-block;
+}

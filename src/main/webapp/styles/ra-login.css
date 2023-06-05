@@ -1,0 +1,37 @@
+/* set entire body that is webpage */
+body{
+	background: #F5F0BB;
+	padding-top: 25vh;	
+}
+/* set form background colour*/
+.login-info{
+	background: #C4DFAA;
+}
+/* set padding and size of th form */
+.form-container{
+	border-radius: 10px;
+	padding: 20px;
+}
+.padding-custom{
+	padding: 10px;
+}
+.input-label-font{
+	font-family: 'Source Code Pro', monospace;
+}
+.form-heading{
+	font-family: 'Nunito Sans', sans-serif;
+}
+.bg-custom{
+	background: #C4DFAA;
+	border: 0px;
+	padding: 0px !important;
+}
+.submit-btn{
+	border: 0px;
+	color: #FFF;
+	background: #519259;
+}
+.submit-btn:hover{
+	background: #35613b;
+	color: #FFF;
+}
